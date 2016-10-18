@@ -1,0 +1,22 @@
+%information
+name=Русский
+developers=MihalRis
+info=встроенный языковой пакет
+info_text=Пакет русского языка, тип - встроенный, создатель MihailRis
+
+%main_menu:
+quit_the_game=Выход
+start_menu=Начать игру
+back_to_menu=Назад
+load_world=Загрузить мир
+new_world=Новый мир
+world_spoiler_text=Будет создан мир %s1 с ключом %s2
+world_name=Название: 
+world_seed=Ключ генерации: 
+settings=Настройки
+about=Об игре
+continue=Продолжить
+save_and_quit_to_menu=Сохранить и выйти в меню
+
+%about
+game_site=Сайт игры

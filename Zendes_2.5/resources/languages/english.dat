@@ -1,0 +1,22 @@
+%information
+name=English
+developers=MihalRis
+info=встроенный языковой пакет
+info_text=English language package, type - default, created by MihailRis
+
+%main_menu:
+quit_the_game=Quit
+start_menu=Start game
+back_to_menu=Back
+load_world=Load world
+new_world=New world
+world_spoiler_text=The world %s1 will be saved with the key %s2
+world_name=Name: 
+world_seed=Generation key: 
+settings=Settings
+about=About
+continue=Continue
+save_and_quit_to_menu=Save and quit to menu
+
+%about
+game_site=Game site

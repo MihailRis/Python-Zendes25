@@ -1,0 +1,25 @@
+%information
+name=Беларуская
+developers=ER
+
+
+
+info=<=Беларускі
+info_text=Пакет беларускай мовы, тып - па змаўчанню, зрабіў ER
+
+%main_menu:
+quit_the_game=Вйсці з гульні
+start_menu=Пачаць гульню 
+back_to_menu=Вяртацца
+load_world=Адкрыць свет
+new_world=Новы свет
+world_spoiler_text=Будзе зроблены свет %s1 з ключом %s2
+world_name=Назва: 
+world_seed=Ключ генерацыі: 
+settings=Налады 
+about=Аб гульне
+continue=Працягваць
+save_and_quit_to_menu=Захаваць і выйсці ў меню
+
+%about
+game_site=Сайт гульні
